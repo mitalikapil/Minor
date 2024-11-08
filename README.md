@@ -1,1 +1,1 @@
-# Minor
+# Minor project
